@@ -1,5 +1,4 @@
 
-```markdown
 # ZCybSec Signal Decoder 🎧
 
 ZCybSec Signal Decoder is an audio signal analysis application that supports decoding multiple modulation techniques such as BFSK, BPSK, and QPSK. The application uses Python libraries like `numpy`, `scipy`, `tkinter`, and `PIL` to process WAV files and decode them into binary sequences.
@@ -184,13 +183,3 @@ If you'd like to contribute to the project:
 ## License 📜
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-### Key Points in the README:
-- **BFSK Explanation**: Provides a detailed explanation of BFSK modulation and decoding.
-- **Library Installation**: Lists all necessary libraries and installation steps.
-- **Code Explanation**: Describes the key parts of the code involved in BFSK signal analysis.
-- **How to Use**: Walkthrough of how to run the application and interact with the GUI.
-- **Contributing**: Instructions for contributing to the project.
-
-Let me know if you need any more details or adjustments!
