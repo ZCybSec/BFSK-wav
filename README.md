@@ -40,29 +40,9 @@ Note: `tkinter` is typically installed by default with Python, but if it is miss
 
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ZCybSec/BFSK-wav.git
    ```
 
-2. **Navigate to the project directory:**
-
-   Change into the project directory:
-   ```bash
-   cd your-repository
-   ```
-
-3. **Install the dependencies:**
-
-   Install the necessary Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application:**
-
-   Once everything is set up, run the application with Python:
-   ```bash
-   python your_file.py
-   ```
 
 ## How to Use 📂
 
@@ -155,30 +135,7 @@ This function:
 
 For a given WAV file, the application reads the audio data, applies the FFT to each interval, detects whether the dominant frequency is closer to `f0` or `f1`, and builds a binary sequence based on these results. The decoded binary sequence is then displayed in the GUI.
 
-## Contributing 🤝
 
-If you'd like to contribute to the project:
-1. **Create a new branch**:
-   ```bash
-   git checkout -b feature-xyz
-   ```
-
-2. **Make your changes** and add the files:
-   ```bash
-   git add .
-   ```
-
-3. **Commit your changes**:
-   ```bash
-   git commit -m "Describe your changes"
-   ```
-
-4. **Push the changes** to GitHub:
-   ```bash
-   git push origin feature-xyz
-   ```
-
-5. **Open a Pull Request**.
 
 ## License 📜
 
